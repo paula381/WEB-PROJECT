@@ -1,0 +1,29 @@
+<div class="service-sec">
+    <h1>SERVICES WE OFFER</h1>
+    <table>
+        <tr>
+          <th>
+            <h2>Service 1</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+                        molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+                        numquam blanditiis harum quisquam eius.</p>
+        </th>
+    
+        <th>
+            <h2>Service 2</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+                   molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+                   numquam blanditiis harum quisquam eius.</p>
+        </th>
+    
+        <th>
+            <h2>Service 3</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+                   molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+                   numquam blanditiis harum quisquam eius.</p>
+        </th>      
+        </tr>
+    </table>
+    
+    </div>
+<br>

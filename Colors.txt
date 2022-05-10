@@ -1,0 +1,10 @@
+Blue 
+color: rgb(96, 85, 255);
+
+
+Yellow
+color: rgb(242, 209, 24);
+
+
+Black
+color: rgb(0, 0, 0);
